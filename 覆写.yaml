@@ -1,3 +1,4 @@
+## 规则集合
 rule-providers:
   reject:
     type: http
@@ -90,7 +91,7 @@ rule-providers:
     path: ./ruleset/applications.yaml
     interval: 86400
 
-#（四区）==============================（代理规则）
+# 
 #代理规则可自行添加 
 rules:
   ## 自定义域名
