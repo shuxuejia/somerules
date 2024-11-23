@@ -112,7 +112,7 @@ rules:
   ## tailscale zerotier.com
   - DOMAIN-SUFFIX,tailscale.io,DIRECT
   - DOMAIN-SUFFIX,tailscale.com,DIRECT
-## 其他规则
+  ## 其他规则
   - RULE-SET,applications,DIRECT
   - RULE-SET,private,DIRECT
   - RULE-SET,reject,REJECT
